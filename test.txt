@@ -1,4 +1,6 @@
 This is asseco commit !
-
+if (a) {
+  // cos
+}
 
 And here we go with second commit
