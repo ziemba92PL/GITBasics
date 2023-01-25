@@ -1,5 +1,5 @@
 This is asseco commit !
-if (a) {
+if (a&b) {
   // cos
 }
 
