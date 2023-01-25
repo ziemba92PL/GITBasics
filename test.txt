@@ -1,6 +1,7 @@
 This is asseco commit !
 if (a&b) {
   // cos
+  //asdf
 }
 
 And here we go with second commit
