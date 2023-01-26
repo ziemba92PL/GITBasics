@@ -5,3 +5,4 @@ if (a||b&c) {
 }
 
 And here we go with second commit
+some change
